@@ -4526,6 +4526,48 @@
             "flipresource": "mymil_flip_adaptive.png",
             "reshashf": "eeebe5e8ca1093764d881fa3d17856e2",
             "author": "Fluse"
+        },
+        {
+            "name": "fuchsi",
+            "package": "Fluse Event Hats",
+            "condition": "None",
+            "adaptive": true,
+            "resource": "fuchsi_adaptive.png",
+            "reshasha": "9a238d103f0ad90d7a45b4bcb1b51afc",
+            "climbresource": "fuchsi_climb_adaptive.png",
+            "reshashc": "f3d6c6608b9d19bbb92cf7109746fff3",
+            "author": "Fluse"
+        },
+        {
+            "name": "kller",
+            "package": "Fluse Event Hats",
+            "condition": "None",
+            "resource": "kller.png",
+            "reshasha": "ba0ae7277054c384f9abba8c983bb341",
+            "climbresource": "kller_climb.png",
+            "reshashc": "a66ba99a7f1eb8b7337cba0f86c1c510",
+            "author": "Fluse"
+        },
+        {
+            "name": "nirvian",
+            "package": "Fluse Event Hats",
+            "condition": "None",
+            "adaptive": true,
+            "resource": "nirvian_adaptive.png",
+            "reshasha": "6c1f250e0062e94fc5a88d234d9934fb",
+            "climbresource": "nirvian_climb_adaptive.png",
+            "reshashc": "f31ce872cacc409253f47d147d636e71",
+            "author": "Fluse"
+        },
+        {
+            "name": "stuggi",
+            "package": "Fluse Event Hats",
+            "condition": "None",
+            "resource": "stuggi.png",
+            "reshasha": "7f4410effc816bfb9066c77c333bcdcd",
+            "climbresource": "stuggi_climb.png",
+            "reshashc": "bae00380cd3d17ce62eaf26c5fc0b7d5",
+            "author": "Fluse"
         }
     ]
 }
