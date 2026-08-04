@@ -4568,7 +4568,36 @@
             "climbresource": "stuggi_climb.png",
             "reshashc": "bae00380cd3d17ce62eaf26c5fc0b7d5",
             "author": "Fluse"
+        },
+        {
+            "name": "ladyvlesk",
+            "package": "Fluse Event Hats",
+            "condition": "None",
+            "resource": "ladyvlesk.png",
+            "reshasha": "dae0edf333c86db8ad4d299bb780f05d",
+            "climbresource": "ladyvlesk_climb.png",
+            "reshashc": "0de60db752278f8504521177e2287fa1",
+            "author": "Fluse"
+        },
+        {
+            "name": "nelichan",
+            "package": "Fluse Event Hats",
+            "condition": "None",
+            "resource": "nelichan.png",
+            "reshasha": "98ae52528070c68f5ea4dd7d392e068f",
+            "climbresource": "nelichan_climb.png",
+            "reshashc": "5cd438c73c7fe079d3892ceb750a38b4",
+            "author": "Fluse"
+        },
+        {
+            "name": "tersti",
+            "package": "Fluse Event Hats",
+            "condition": "None",
+            "resource": "tersti.png",
+            "reshasha": "6fcc1a093be8db816140fb4962c01400",
+            "climbresource": "tersti_climb.png",
+            "reshashc": "5f5e189fe87d439046ef181c28f20984",
+            "author": "Fluse"
         }
     ]
-
 }
